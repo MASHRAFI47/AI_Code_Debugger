@@ -36,7 +36,7 @@ Javascript, HTML, CSS...
 Clone the project
 
 ```bash
-  git clone https://github.com/MASHRAFI47/AI_Code_Debugger.git
+git clone https://github.com/MASHRAFI47/AI_Code_Debugger.git
 ```
 
 Go to the project directory
