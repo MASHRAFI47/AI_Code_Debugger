@@ -42,21 +42,21 @@ git clone https://github.com/MASHRAFI47/AI_Code_Debugger.git
 Go to the project directory
 
 ```bash
-  cd ai_code_debugger
+cd ai_code_debugger
 ```
 
 Install dependencies
 
 ```bash
-  pip install streamlit
-  pip install google-genai
-  pip install python-dotenv
+pip install streamlit
+pip install google-genai
+pip install python-dotenv
 ```
 
 Start the server
 
 ```bash
-  streamlit run app.py
+streamlit run app.py
 ```
 
 
