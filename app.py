@@ -41,7 +41,7 @@ if button:
         with st.container(border=True):
             st.subheader("The issue")
             
-            with st.spinner("AI is initiating your issue"):
+            with st.spinner("AI is checking your issue"):
                 issues = issue_generator(pil_images, options)
                 st.markdown(issues)
                 
